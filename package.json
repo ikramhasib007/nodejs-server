@@ -4,7 +4,8 @@
   "description": "Node JS Server using express",
   "main": "server.js",
   "scripts": {
-    "test": "testIt"
+    "test": "testIt",
+    "start": "node server.js"
   },
   "author": "Ikram Hasib",
   "license": "MIT",
